@@ -1,0 +1,1 @@
+Simple script to facilitate reading SOCAT data files using pandas.
